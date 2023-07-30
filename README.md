@@ -29,3 +29,12 @@ Replace the example api key with yours generated.
 
 ### How to use?
 Double click and run, ignore the Windows Defender warning
+
+### What do I need to have installed?
+Nothing, my version does not require Python or any other requirements.
+
+### Is it bannable?
+No. You use the public riot API and there is no way of getting banned or suspended for it.
+
+
+If you have any questions or concerns, contact me on discord @rifteyy.
