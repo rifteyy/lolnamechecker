@@ -27,6 +27,5 @@ Replace the example api key with yours generated.
 5) Put in file `summoner_names.txt` (or change the variable `summoner_names_input` containing the file name to something else) all the summoner names you wanna check. They must be 1 summoner name on each line.
 
 
-
 ### How to use?
 Double click and run, ignore the Windows Defender warning
