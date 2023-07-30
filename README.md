@@ -17,8 +17,11 @@ set "api_key=RGAPI-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
 Replace the example api key with yours generated.
 4) Replace region, region_code, region_shorter variables with corresponding info;
    Variable `region` can contain the following: `americas asia europe sea`
+   
    Variable `region_code` can contain the following: `br1 eun1 euw1 jp1 kr la1 na1 oc1 tr1 ru ph2 sg2 th2 tw2 vn2`
+   
    Variable `region_shorter` can contain the following: `br eune euw jp kr lan las na oce ph sg th tw vn tr ru`
+   
    Note all these info must be 100% correct, or it will not work.
 
 
