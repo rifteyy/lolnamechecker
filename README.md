@@ -16,7 +16,7 @@ set "api_key=RGAPI-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
 ```
 Replace the example api key with yours generated.
 
-4) Replace region, region_code, region_shorter variables with corresponding info;
+4) Replace region, region_code, region_shorter variables with corresponding info. You can find more info on the [Riot Developer Portal docs](https://developer.riotgames.com/docs/lol)
 
    Variable `region` can contain the following: `americas asia europe sea`
    
@@ -24,8 +24,9 @@ Replace the example api key with yours generated.
    
    Variable `region_shorter` can contain the following: `br eune euw jp kr lan las na oce ph sg th tw vn tr ru`
    
-   Note all these info must be 100% correct, or it will not work.
-5) Put in file `summoner_names.txt` all the summoner names you wanna check. They must be 1 summoner name on each line.
+5) Put in file `summoner_names.txt` (or change the variable `summoner_names_input` containing the file name to something else) all the summoner names you wanna check. They must be 1 summoner name on each line.
+
+
 
 ### How to use?
 Double click and run, ignore the Windows Defender warning
